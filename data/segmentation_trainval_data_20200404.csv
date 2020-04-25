@@ -1,0 +1,11 @@
+File,Size,MD5,Area,Link
+train-image.zip,10.93GB,f52da90d47109ddf83f4a45511b04f20,International,http://tianchi-public-us-east-download.oss-us-east-1.aliyuncs.com/231787/train-image.zip
+train-image.zip,10.93GB,f52da90d47109ddf83f4a45511b04f20,China,http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231787/train-image.zip
+train-model.zip,1.88GB,28a443ac09381f83c347159ec90c96fa,International,http://tianchi-public-us-east-download.oss-us-east-1.aliyuncs.com/231787/train-model.zip
+train-model.zip,1.88GB,28a443ac09381f83c347159ec90c96fa,China,http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231787/train-model.zip
+train-texture.zip,3.91GB,4193dc839ed39c3ad632060353c18d86,International,http://tianchi-public-us-east-download.oss-us-east-1.aliyuncs.com/231787/train-texture.zip
+train-texture.zip,3.91GB,4193dc839ed39c3ad632060353c18d86,China,http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231787/train-texture.zip
+devkit.zip,120.36MB,b479c65899438cf7ee4e12ad5d873b91,International,http://tianchi-public-us-east-download.oss-us-east-1.aliyuncs.com/231787/devkit.zip
+devkit.zip,120.36MB,b479c65899438cf7ee4e12ad5d873b91,China,http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231787/devkit.zip
+val.zip,1.75GB,3f257bf16625aa797d658d5adec1d5ee,International,http://tianchi-public-us-east-download.oss-us-east-1.aliyuncs.com/231787/val.zip
+val.zip,1.75GB,3f257bf16625aa797d658d5adec1d5ee,China,http://tianchi-competition.oss-cn-hangzhou.aliyuncs.com/231787/val.zip
